@@ -102,5 +102,5 @@ Notas:
 
 Guarda `info_sistema.txt` con OS, versión de Python y CPU/núcleos.
 
-Autor: [Tu nombre]
-Curso: 2024-25
+Autor: Teferi Samuel Laforga Ena
+Curso: 2025-26
