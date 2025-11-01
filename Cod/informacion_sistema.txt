@@ -1,0 +1,19 @@
+Información del sistema - 2025-10-27 00:24:01
+
+
+==================================================
+INFORMACIÓN DETALLADA DE CPU Y PROCESADOR
+==================================================
+Procesador: Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+Máquina: AMD64
+Para información detallada de CPU, instala psutil: pip install psutil
+
+==================================================
+INFORMACIÓN AVANZADA NO DISPONIBLE
+==================================================
+Para obtener información avanzada del hardware, instala psutil:
+pip install psutil
+
+==================================================
+ANÁLISIS COMPLETADO
+==================================================
